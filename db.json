@@ -1,19 +1,19 @@
 {
     "versoes": [
-        {"id": 1, "modelo": "ONIX", "versao:" "LTZ"},
-        {"id": 2, "modelo": "ONIX", "versao:" "LT"},
-        {"id": 3, "modelo": "MONTANA", "versao:" "LTZ"},
-        {"id": 4, "modelo": "MONTANA", "versao:" "LT"},
-        {"id": 5, "modelo": "SPIN", "versao:" "LT"},
-        {"id": 6, "modelo": "SPIN", "versao:" "LTZ"},
-        {"id": 7, "modelo": "HB20", "versao:" "CONFORT"},
-        {"id": 8, "modelo": "HB20", "versao:" "PLATINUM},
-        {"id": 9, "modelo": "HB20s", "versao:" "CONFORT"},
-        {"id": 10, "modelo": "HB20s", "versao:" "PLATINUM},
-        {"id": 9 "modelo": "VIRTUS", "versao:" "TSI CONFORTLINE"},
-        {"id": 9 "modelo": "VIRTUS", "versao:" "AUTOMÁTICO"},
-        {"id": 10, "modelo": "POLO", "versao:" "MANUAL"},
-        {"id": 10, "modelo": "POLO", "versao:" "AUTOMÁTICO"},
-        {"id": 5, "modelo": "SAVEIRO", "versao:" "ROBUST"}
+        {"id": 1, "modelo": "ONIX", "versao": "LTZ"},
+        {"id": 2, "modelo": "ONIX", "versao": "LT"},
+        {"id": 3, "modelo": "MONTANA", "versao": "LTZ"},
+        {"id": 4, "modelo": "MONTANA", "versao": "LT"},
+        {"id": 5, "modelo": "SPIN", "versao": "LT"},
+        {"id": 6, "modelo": "SPIN", "versao": "LTZ"},
+        {"id": 7, "modelo": "HB20", "versao": "CONFORT"},
+        {"id": 8, "modelo": "HB20", "versao": "PLATINUM},
+        {"id": 9, "modelo": "HB20s", "versao": "CONFORT"},
+        {"id": 10, "modelo": "HB20s", "versao": "PLATINUM},
+        {"id": 9 "modelo": "VIRTUS", "versao": "TSI CONFORTLINE"},
+        {"id": 9 "modelo": "VIRTUS", "versao": "AUTOMÁTICO"},
+        {"id": 10, "modelo": "POLO", "versao": "MANUAL"},
+        {"id": 10, "modelo": "POLO", "versao": "AUTOMÁTICO"},
+        {"id": 5, "modelo": "SAVEIRO", "versao": "ROBUST"}
     ]
 }
