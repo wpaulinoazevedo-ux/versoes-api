@@ -10,10 +10,10 @@
         {"id": 8, "modelo": "HB20", "versao": "PLATINUM"},
         {"id": 9, "modelo": "HB20s", "versao": "CONFORT"},
         {"id": 10, "modelo": "HB20s", "versao": "PLATINUM"},
-        {"id": 9 "modelo": "VIRTUS", "versao": "TSI CONFORTLINE"},
-        {"id": 9 "modelo": "VIRTUS", "versao": "AUTOMÁTICO"},
-        {"id": 10, "modelo": "POLO", "versao": "MANUAL"},
-        {"id": 10, "modelo": "POLO", "versao": "AUTOMÁTICO"},
-        {"id": 5, "modelo": "SAVEIRO", "versao": "ROBUST"}
+        {"id": 11, "modelo": "VIRTUS", "versao": "TSI CONFORTLINE"},
+        {"id": 12, "modelo": "VIRTUS", "versao": "AUTOMÁTICO"},
+        {"id": 13, "modelo": "POLO", "versao": "MANUAL"},
+        {"id": 14, "modelo": "POLO", "versao": "AUTOMÁTICO"},
+        {"id": 15, "modelo": "SAVEIRO", "versao": "ROBUST"}
     ]
 }
