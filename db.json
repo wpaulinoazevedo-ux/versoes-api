@@ -8,8 +8,6 @@
         {"id": 6, "modelo": "SPIN", "versao": "LTZ"},
         {"id": 7, "modelo": "HB20", "versao": "CONFORT"},
         {"id": 8, "modelo": "HB20", "versao": "PLATINUM"},
-        {"id": 9, "modelo": "HB20s", "versao": "CONFORT"},
-        {"id": 10, "modelo": "HB20s", "versao": "PLATINUM"},
         {"id": 11, "modelo": "VIRTUS", "versao": "TSI CONFORTLINE"},
         {"id": 12, "modelo": "VIRTUS", "versao": "AUTOMÁTICO"},
         {"id": 13, "modelo": "POLO", "versao": "MANUAL"},
